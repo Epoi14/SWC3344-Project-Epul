@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Product
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=id\ isAvailable
+comment2.target=Product(int,\ boolean)
+comment3.params=
+comment3.target=boolean\ isAvailable()
+numComments=4
